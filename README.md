@@ -20,8 +20,8 @@ Build a map-based application, which lets the user see geo-based data on a map a
 
 Fork this repository and fill in (either in English, or in Slovak):
 
-**Application description**: `<fill in>`
+**Application description**: Po výbere miest aplikácia navrhne cestu ako všetky body prejsť s tým, že sa vráti na pôvodné miesto alebo skončí na inom určenom mieste a zobrazí rôzne pamiatky (alebo iné POI) v určenom okruhu.
 
 **Data source**: `<fill in>`
 
-**Technologies used**: `<fill in>`
+**Technologies used**: Webová stránka (PHP alebo Java/Tomcat), PostgreSQL
